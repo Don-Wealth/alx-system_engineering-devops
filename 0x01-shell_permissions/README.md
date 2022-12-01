@@ -1,3 +1,8 @@
 Tasks 0. My name, is a script that switches the current user to the user betty.
 
 Task 1. Who am I, is a script that prints the effective username of the current user.
+Task 2 Groups, this script prints all the groups the current user is part of
+Task 3 New owner, this script describes how to change to owner of a file to a new owner
+Task 4. Empty!, a script that creates an empty file called hello
+Task 5. Execute, this script adds execute permission to the owner of the file hello
+Task 6 Multiple permissions, adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
