@@ -1,3 +1,5 @@
+This directory is for 0x01. Shell, permissions project
+
 Tasks 0. My name, is a script that switches the current user to the user betty.
 
 Task 1. Who am I, is a script that prints the effective username of the current user.
@@ -19,3 +21,5 @@ Task 8. James Bond,  script that sets all permission to other users to the file 
 Task 9. John Doe, a script that sets the mode of the file hello to -rwxr-x-wx
 
 Task 10. Look in the mirror, script that sets the mode of the file hello the same as olleh’s mode.
+
+Task 11. Directories, a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users and regular files will not be changed.
