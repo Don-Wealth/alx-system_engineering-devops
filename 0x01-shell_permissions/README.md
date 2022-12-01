@@ -17,3 +17,5 @@ Task 7. Everybody!, a script that adds execution permission to the owner, the gr
 Task 8. James Bond,  script that sets all permission to other users to the file hello
 
 Task 9. John Doe, a script that sets the mode of the file hello to -rwxr-x-wx
+
+Task 10. Look in the mirror, script that sets the mode of the file hello the same as olleh’s mode.
