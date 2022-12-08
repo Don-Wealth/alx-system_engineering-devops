@@ -1,2 +1,2 @@
 #!/bin/bash
-set | sort 0
+set | sort 
